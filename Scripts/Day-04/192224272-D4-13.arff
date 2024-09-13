@@ -1,0 +1,20 @@
+@relation items_bought
+
+@attribute M {y, n}
+@attribute O {y, n}
+@attribute N {y, n}
+@attribute K {y, n}
+@attribute E {y, n}
+@attribute Y {y, n}
+@attribute D {y, n}
+@attribute A {y, n}
+@attribute U {y, n}
+@attribute C {y, n}
+@attribute I {y, n}
+
+@data
+y, y, y, y, y, y, n, n, n, n, n
+n, y, y, y, y, y, y, n, n, n, n
+y, n, n, y, y, n, n, y, n, n, n
+y, n, n, y, n, y, n, n, y, n, n
+n, y, n, y, y, n, n, n, n, y, y

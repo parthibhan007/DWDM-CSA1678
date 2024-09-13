@@ -1,0 +1,15 @@
+@relation grocery_items
+
+@attribute Bread {y,n}
+@attribute Cheese {y,n}
+@attribute Egg {y,n}
+@attribute Juice {y,n}
+@attribute Milk {y,n}
+@attribute Yogurt {y,n}
+
+@data
+y,y,y,y,n,n  
+y,y,n,y,n,n    
+y,n,n,n,y,y   
+y,n,n,y,y,n   
+n,y,n,y,y,n    

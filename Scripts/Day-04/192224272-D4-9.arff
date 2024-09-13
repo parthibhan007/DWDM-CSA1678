@@ -1,0 +1,14 @@
+@relation person_classification
+
+@attribute height numeric
+@attribute weight numeric
+@attribute gender {male, female}
+
+@data
+185,85,male
+190,90,male
+170,60,female
+160,55,female
+175,82,male
+180,70,female
+165,75,female
